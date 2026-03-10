@@ -1,3 +1,20 @@
+- title: "When Scaffolding Breaks: Investigating Student Interaction with LLM-Based Writing Support in Real-Time K-12 EFL Classrooms"
+  authors: "Junho Myung, Hyunseung Lim, Hana Oh, Hyoungwook Jin, Nayeon Kang, So-Yeon Ahn, Hwajung Hong, Alice Oh, Juho Kim"
+  collection: "publications"
+  date: "2026-04-13"
+  venue: "CHI, 2026"
+  type: 'conference and journals'
+  arxivurl: "https://arxiv.org/abs/2512.05506"
+  award: "Best Paper Award"
+
+- title: "FINEST: Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation"
+  authors: "Juhyun Oh, Nayeon Lee, Chani Jung, Jiho Jin, Junho Myung, Jongwon Lee, Taeui Song, Alice Oh"
+  collection: "publications"
+  date: "2026-03-24"
+  venue: "EACL (findings), 2026"
+  type: 'conference and journals'
+  arxivurl: "https://arxiv.org/abs/2603.04123"
+  
 - title: "Social Bias Benchmark for Generation: A Comparison of Generation and QA-Based Evaluations"
   authors: "Jiho Jin, Woosung Kang, Junho Myung, Alice Oh"
   collection: "publications"
@@ -100,14 +117,6 @@
   paperurl: 'https://aclanthology.org/2024.lrec-main.1193/'
   arxivurl: 'https://arxiv.org/abs/2403.08272'
   homeurl: 'https://zeunie.github.io/RECIPE4U/'
-
-- title: "Learning from Teaching Assistants to Program with Subgoals: Exploring the Potential for AI Teaching Assistants"
-  authors: 'Changyoon Lee, Junho Myung, Jieun Han, Jiho Jin, Alice Oh'
-  collection: 'publications'
-  date: '2023-09-19'
-  venue: ''
-  type: 'preprint'
-  arxivurl: 'https://arxiv.org/abs/2309.10419'
 
 - title: 'RECIPE: How to integrate ChatGPT into EFL writing education'
   authors: 'Jieun Han, Haneul Yoo, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh'
