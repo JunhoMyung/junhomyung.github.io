@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Junho Myung, a first-year Ph.D. student in the [School of Computing](https://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). I work together with Professors [Alice Oh](https://aliceoh9.github.io/) and [Juho Kim](https://juhokim.com/) at [U&I Lab](https://uilab.kr/) and [KIXLAB](https://www.kixlab.org/).
+Hello, I am Junho Myung, a second-year Ph.D. student in the [School of Computing](https://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). I work together with Professors [Alice Oh](https://aliceoh9.github.io/) and [Juho Kim](https://juhokim.com/) at [U&I Lab](https://uilab.kr/) and [KIXLAB](https://www.kixlab.org/).
 
 My research interests lie in Human-Centered NLP (HCNLP). Recently, I have been involved in projects focusing on (1) the cultural adaptation of large language models (LLMs) and (2) the use of AI for education.
 
