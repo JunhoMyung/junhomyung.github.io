@@ -23,10 +23,11 @@ export const education = [
 
 export const awards = [
   { title: "Best Paper Award, CHI 2026", year: "2026" },
+  { title: "Best Theme Paper Award, NAACL 2025", year: "2025" },
   { title: "Best Paper Award, C3NLP Workshop @ ACL 2024", year: "2024" },
-  { title: "Shortlisted for Best Student Paper Award (Interspeech 2024)", year: "2024" },
-  { title: "Resource Award (NAACL 2024)", year: "2024" },
-  { title: "Outstanding TA Award (KAIST CS473 Introduction to Social Computing)", year: "2023" },
+  { title: "Shortlisted for Best Student Paper Award, Interspeech 2024", year: "2024" },
+  { title: "Resource Award, NAACL 2024", year: "2024" },
+  { title: "Outstanding TA Award, KAIST CS473 Introduction to Social Computing", year: "2023" },
 ];
 
 export const service = [

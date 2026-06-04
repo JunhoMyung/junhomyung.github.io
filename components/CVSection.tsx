@@ -1,4 +1,4 @@
-import { education, service, teaching } from "@/data/cv";
+import { education, awards, service, teaching } from "@/data/cv";
 
 
 function SubHeading({ label }: { label: string }) {
@@ -16,7 +16,7 @@ export default function CVSection() {
         <div className="space-y-10">
           <div>
             <SubHeading label="Education" />
-            <div className="space-y-6">
+            <div className="space-y-4">
               {education.map((e, i) => (
                 <div key={i} className="flex flex-col sm:flex-row sm:justify-between gap-1">
                   <div>
@@ -26,6 +26,18 @@ export default function CVSection() {
                     ))}
                   </div>
                   <p className="text-sm text-gray-400 shrink-0">{e.period}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <SubHeading label="Awards" />
+            <div className="space-y-2">
+              {awards.map((a, i) => (
+                <div key={i} className="flex flex-col sm:flex-row sm:justify-between gap-0.5">
+                  <p className="text-sm text-gray-800">{a.title}</p>
+                  <p className="text-sm text-gray-400 shrink-0">{a.year}</p>
                 </div>
               ))}
             </div>

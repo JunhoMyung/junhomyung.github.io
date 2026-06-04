@@ -158,7 +158,7 @@ export default function Home() {
                   className="flex items-center gap-1.5 hover:text-gray-900 transition-colors"
                 >
                   <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true">
-                    <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 10a8 8 0 0 1 7.162 3.44L24 9.5 12 0z"/>
+                    <path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
                   </svg>
                   Google Scholar
                 </a>
@@ -250,7 +250,7 @@ export default function Home() {
                         </p>
                         {paper.award && (
                           <p className="text-xs text-amber-600 mt-0.5 font-medium">
-                            ★ {paper.award}
+                            🏆 {paper.award}
                           </p>
                         )}
                       </div>
