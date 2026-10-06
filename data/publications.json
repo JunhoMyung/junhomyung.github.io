@@ -1,5 +1,16 @@
 [
   {
+    "title": "JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors",
+    "authors": "Jiho Jin*, Junho Myung*, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh",
+    "venue": "NeurIPS Evaluations and Datasets",
+    "year": "2026",
+    "type": "Conference",
+    "paperUrl": "https://arxiv.org/abs/2605.26955",
+    "codeUrl": "",
+    "dataUrl": "https://huggingface.co/datasets/juice-cultural-eval/JuICE",
+    "projectUrl": "https://jinjh0123.github.io/JuICE/"
+  },
+  {
     "title": "TIDES: A Longitudinal Bilingual Dataset for Modeling Multi-Party Social Dynamics",
     "authors": "Heechan Lee*, Jeonggyu Kang*, Junho Myung, Jaywoong Jeong, Juho Kim, Joseph Seering",
     "venue": "COLM",
@@ -9,17 +20,6 @@
     "codeUrl": "",
     "dataUrl": "https://huggingface.co/datasets/hclee99/TIDES",
     "projectUrl": "https://tides.cstlab.org/"
-  },
-  {
-    "title": "JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors",
-    "authors": "Jiho Jin*, Junho Myung*, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh",
-    "venue": "arXiv Preprint",
-    "year": "2026",
-    "type": "Preprint",
-    "paperUrl": "https://arxiv.org/abs/2605.26955",
-    "codeUrl": "",
-    "dataUrl": "https://huggingface.co/datasets/juice-cultural-eval/JuICE",
-    "projectUrl": "https://jinjh0123.github.io/JuICE/"
   },
   {
     "title": "SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures",
