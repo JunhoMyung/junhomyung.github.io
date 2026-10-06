@@ -6,13 +6,16 @@ Requires: pip install playwright && playwright install chromium
 Usage:
   1. Start dev server: npm run dev
   2. Run this script: python scripts/generate_cv.py
+
+CV_URL / CV_OUTPUT env vars override the defaults (used by the deploy workflow).
 """
 
 from playwright.sync_api import sync_playwright
 from pathlib import Path
+import os
 
-OUTPUT = Path(__file__).parent.parent / "public" / "cv.pdf"
-URL = "http://localhost:3000/cv"
+OUTPUT = Path(os.environ.get("CV_OUTPUT", Path(__file__).parent.parent / "public" / "cv.pdf"))
+URL = os.environ.get("CV_URL", "http://localhost:3000/cv")
 
 with sync_playwright() as p:
     browser = p.chromium.launch()

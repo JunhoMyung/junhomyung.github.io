@@ -72,7 +72,7 @@ export default function CVPage() {
           .sticky { position: static !important; }
           body { font-size: 7.5pt; line-height: 1.35; }
           h1 { font-size: 16pt !important; }
-          h2 { font-size: 10pt !important; }
+          h2 { font-size: 10pt !important; break-after: avoid; }
           p, span, div { line-height: 1.35; }
           @page { margin: 1cm 1.5cm; }
         }
