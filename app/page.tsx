@@ -37,7 +37,7 @@ const researchTracks: ResearchTrack[] = [
       {
         title:
           "JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors",
-        venue: "arXiv 2026",
+        venue: "NeurIPS Evaluations & Benchmarks 2026",
         paperUrl: "https://arxiv.org/abs/2605.26955",
         projectUrl: "https://jinjh0123.github.io/JuICE/",
       }
